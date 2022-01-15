@@ -1,0 +1,11 @@
+node_modules
+.env
+README.md
+screen1.png
+screen2.png
+screen3.png
+<<<<<<< HEAD
+screen4.png
+=======
+screen4.png
+>>>>>>> fd77039c6cf4a66daee068f48ffa93ecba4cf3db
