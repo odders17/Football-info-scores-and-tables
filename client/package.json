@@ -2,6 +2,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "home":"https://dashboard.heroku.com/apps",
+  "proxy":"http://localhost:5000",
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "@material-ui/icons": "^4.5.2",
@@ -19,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv ../public",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
