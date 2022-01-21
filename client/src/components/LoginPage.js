@@ -26,8 +26,8 @@ function Copyright() {
   return (
     <Typography variant='body2' color='textSecondary' align='center'>
       {'Copyright © '}
-      <Link color='inherit' href='https://github.com/odders17/Football-info-scores-and-tables'>
-        Liron-Perel
+      <Link color='inherit' href='https://github.com/odders17/'>
+        Paul-Aston
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
